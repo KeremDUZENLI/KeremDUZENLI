@@ -21,7 +21,8 @@
 <a href = "mailto:krmdznl97@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="margin-bottom: 5px;" target="_blank">
 </a>
-  
+ 
+<br>
 ![Visitors](https://visitor_badge.deta.dev/?id=KeremDUZENLI)
 
 </div>
@@ -35,13 +36,13 @@
 - 🌱 I’m currently learning `Golang Microservices Development` <br>
 - 👯 I’m looking to collaborate on `Open Source Projects` <br>
 - 🌍 Countries lived in `🇹🇷 🇬🇷 🇪🇸 🇧🇷` <br>
-- 🌐 Languages speaking `Turkish - English - Portuguese - Spanish` <br>
+- 🌐 Languages speaking `Turkish - English - Spanish - Portuguese` <br>
 - 📍 Actually living in `Franca-SP / BRAZIL` <br>
 </p>
 
-<img height="180em" align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+<div align="center" style="display: block" >
   <a href="https://github.com/KeremDUZENLI">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=KeremDUZENLI&show_icons=true&theme=classic&include_all_commits=true&count_private=true"/>
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremDUZENLI&layout=compact&langs_count=7&theme=classic"/>
