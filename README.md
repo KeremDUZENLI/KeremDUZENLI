@@ -22,13 +22,15 @@
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="margin-bottom: 5px;" target="_blank">
 </a>
  
-<br>
+<div>
 
 ![Visitors](https://visitor_badge.deta.dev/?id=KeremDUZENLI)
 
 </div>
+</div>
 
 <p align="left">
+
 <h1> Kerem DÜZENLİ <br>
 <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"> <br>
 </h1>
@@ -39,20 +41,20 @@
 - 🌍 Countries lived in `🇹🇷 🇬🇷 🇪🇸 🇧🇷` <br>
 - 🌐 Languages speaking `Turkish - English - Spanish - Portuguese` <br>
 - 📍 Actually living in `Franca-SP / BRAZIL` <br>
-</p>
+</p> <br>
 
 <div align="center" style="display: block" >
   <a href="https://github.com/KeremDUZENLI">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=KeremDUZENLI&show_icons=true&theme=classic&include_all_commits=true&count_private=true"/>
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremDUZENLI&layout=compact&langs_count=7&theme=classic"/>
   </a>
-</div>
+</div> <br>
 
 <div align="center" style="display: block" >
   <a href="https://github.com/KeremDUZENLI">
     <img src="https://github-profile-trophy.vercel.app/?username=KeremDUZENLI&theme=classic&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
   </a>
-</div>
+</div> <br>
 
 <div align="center" style="display: inline_block" >
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>
@@ -75,4 +77,4 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KeremDUZENLI&theme=classic&hide_border=false)
 
-</div>
+</div> <br>
