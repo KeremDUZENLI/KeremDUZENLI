@@ -22,7 +22,7 @@
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="margin-bottom: 5px;" target="_blank">
 </a>
  
-<div>
+<div align="center"> <br>
 
 ![Visitors](https://visitor_badge.deta.dev/?id=KeremDUZENLI)
 
@@ -77,4 +77,4 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KeremDUZENLI&theme=classic&hide_border=false)
 
-</div> <br>
+</div>
