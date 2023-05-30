@@ -72,10 +72,22 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg"/>
 
+<div align="center" style="display: block" > <br>
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<div align="center" style="display: block" > <br>
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=classic)
 
+</div>
+
+<div align="center" style="display: block" > <br>
+
 ![Infos](https://github-readme-streak-stats.herokuapp.com/?user=KeremDUZENLI&theme=classic&hide_border=false)
+
+</div>
 
 </div>
