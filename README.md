@@ -47,7 +47,7 @@
 <div align="center" style="display: block" > <br>
   <a href="https://github.com/KeremDUZENLI">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=KeremDUZENLI&show_icons=true&theme=classic&include_all_commits=true&count_private=true"/>
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremDUZENLI&layout=compact&langs_count=7&theme=classic&exclude_repo=jupyter-notebooks"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremDUZENLI&layout=compact&langs_count=7&theme=classic&exclude_repo=python"/>
   </a>
 </div>
 
