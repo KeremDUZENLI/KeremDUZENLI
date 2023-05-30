@@ -74,7 +74,7 @@
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=classic&hide_border=true)
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=classic&hide_border=false)
 
 ![Infos](https://github-readme-streak-stats.herokuapp.com/?user=KeremDUZENLI&theme=classic&hide_border=false)
 
