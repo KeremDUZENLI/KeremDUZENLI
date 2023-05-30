@@ -44,8 +44,13 @@
 <div align="center" style="display: block" >
   <a href="https://github.com/KeremDUZENLI">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=KeremDUZENLI&show_icons=true&theme=classic&include_all_commits=true&count_private=true"/>
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremDUZENLI&layout=compact&langs_count=7&theme=classic"/> <br>
-    <img height="180em" align="center" src="https://github-profile-trophy.vercel.app/?username=KeremDUZENLI&theme=classic&no-frame=true&row=1&&margin-w=20&no-bg=true"/> <br>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremDUZENLI&layout=compact&langs_count=7&theme=classic"/>
+  </a>
+</div>
+
+<div align="center" style="display: block" >
+  <a href="https://github.com/KeremDUZENLI">
+    <img height="180em" align="center" src="https://github-profile-trophy.vercel.app/?username=KeremDUZENLI&theme=classic&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
   </a>
 </div>
 
