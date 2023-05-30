@@ -23,6 +23,7 @@
 </a>
  
 <br>
+
 ![Visitors](https://visitor_badge.deta.dev/?id=KeremDUZENLI)
 
 </div>
@@ -40,13 +41,11 @@
 - 📍 Actually living in `Franca-SP / BRAZIL` <br>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center" style="display: block" >
   <a href="https://github.com/KeremDUZENLI">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=KeremDUZENLI&show_icons=true&theme=classic&include_all_commits=true&count_private=true"/>
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremDUZENLI&layout=compact&langs_count=7&theme=classic"/>
-    <img height="180em" align="center" src="https://github-profile-trophy.vercel.app/?username=KeremDUZENLI&theme=classic&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremDUZENLI&layout=compact&langs_count=7&theme=classic"/> <br>
+    <img height="180em" align="center" src="https://github-profile-trophy.vercel.app/?username=KeremDUZENLI&theme=classic&no-frame=true&row=1&&margin-w=20&no-bg=true"/> <br>
   </a>
 </div>
 
@@ -65,12 +64,10 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-                                                                                                                
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=classic)
-                                                                                                                                                          
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KeremDUZENLI&theme=classic&hide_border=false)
 
 </div>
