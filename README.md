@@ -39,9 +39,9 @@
 - 🔭 I’m currently working on `Q2Pay` <br>
 - 🌱 I’m currently learning `Golang Microservices Development` <br>
 - 👯 I’m looking to collaborate on `Open Source Projects` <br>
-- 🌍 Countries lived in `🇹🇷 Turkey   🇬🇷 Greece   🇪🇸 Spain   🇧🇷 Brazil` <br>
-- 🌐 Languages speaking `Turkish - English - Spanish - Portuguese` <br>
-- 📍 Actually living in `Franca-SP / BRAZIL` <br>
+- 🌍 Countries lived in `🇹🇷 Turkey   🇬🇷 Greece   🇪🇸 Spain   🇧🇷 Brazil   🇦🇹 Austria` <br>
+- 🌐 Languages speaking `Turkish - English - Spanish - Portuguese - German` <br>
+- 📍 Actually living in `Linz / Austria` <br>
 </p>
 
 <div align="center" style="display: block" > <br>
