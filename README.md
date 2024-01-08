@@ -24,7 +24,7 @@
  
 <div align="center"> <br>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=KeremDUZENLI&labelColor=%23d9e3f0&countColor=%23697689)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=KeremDUZENLI&labelColor=%23d9e3f0&countColor=%23697689&style=flat-square)
 
 </div>
 
