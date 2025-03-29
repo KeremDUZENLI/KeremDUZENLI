@@ -32,10 +32,7 @@
 
 <p align="left">
 
-<h1> Kerem DÜZENLİ <br>
-
-<br>
-</h1>
+<h1> Kerem DÜZENLİ <br></h1>
 
 <!-- - 🔭 I’m currently working on `Q2Pay` <br> -->
 
