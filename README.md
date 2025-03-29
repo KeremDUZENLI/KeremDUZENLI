@@ -43,9 +43,9 @@
 
 - 🌱 I’m currently learning `Golang Microservices Development` <br>
 - 👯 I’m looking to collaborate on `Open Source Projects` <br>
-- 🌍 Countries lived in `🇹🇷 Turkey   🇬🇷 Greece   🇪🇸 Spain   🇧🇷 Brazil   🇦🇹 Austria` <br>
+- 🌍 Countries lived in `🇹🇷 Turkey   🇬🇷 Greece   🇪🇸 Spain   🇧🇷 Brazil   🇦🇹 Austria   🇭🇺 Hungary` <br>
 - 🌐 Languages speaking `Turkish - English - Spanish - Portuguese - German` <br>
-- 📍 Actually living in `Linz / Austria` <br>
+- 📍 Actually living in `Debrecen / Hungary` <br>
 </p>
 
 <div align="center" style="display: block" > <br>
