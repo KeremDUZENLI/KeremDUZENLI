@@ -36,7 +36,7 @@
 
 <!-- - 🔭 I’m currently working on `Q2Pay` <br> -->
 
-- 🌱 I’m currently learning `Golang Microservices Development` <br>
+- 🌱 I’m currently working `University of Debrecen, Doctoral School of Informatics` <br>
 - 👯 I’m looking to collaborate on `Open Source Projects` <br>
 - 🌍 Countries lived in `🇹🇷 Turkey   🇬🇷 Greece   🇪🇸 Spain   🇧🇷 Brazil   🇦🇹 Austria   🇭🇺 Hungary` <br>
 - 🌐 Languages speaking `Turkish - English - Spanish - Portuguese - German` <br>
