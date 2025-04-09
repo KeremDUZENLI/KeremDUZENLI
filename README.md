@@ -71,7 +71,7 @@
   <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg"/>
 </div>
 
-<div align="center" style="display: block">
+<div align="center" style="display: block"> <br>
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=classic&hide_border=false)
 
