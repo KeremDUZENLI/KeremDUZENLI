@@ -64,13 +64,13 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg"/>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=classic&hide_border=false)
+
 ![Infos](https://github-readme-streak-stats.herokuapp.com/?user=KeremDUZENLI&theme=classic&hide_border=false)
 
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 50px;">
   <h1 align="left">Support My Work</h1>
   <p align="justify">Hey! If you find my projects inspiring and would like to support my education costs and doctoral research, please consider donating. Every little bit counts, like buying me a cup of coffee or tea!</p>
   <a href="https://revolut.me/krmdznl" target="_blank">
