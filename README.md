@@ -43,6 +43,12 @@
   </a>
 </div>
 
+<div align="center" style="display: block"><br>
+  <a href="https://github.com/KeremDUZENLI" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeremDUZENLI&theme=classic&hide_border=false" alt="Infos" />
+  </a>
+</div>
+
 <div align="center" style="display: block" > <br>
   <a href="https://github.com/KeremDUZENLI">
     <img src="https://github-profile-trophy.vercel.app/?username=KeremDUZENLI&theme=classic&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
@@ -50,33 +56,31 @@
 </div>
 
 <div align="center" style="display: inline_block" > <br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>
+  <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-  <img align="center" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"/>
+  <img align="center" height="45" width="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+  <img align="center" height="45" width="60" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"/>
 
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg"/>
+  <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
+  <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+  <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg"/>
+</div>
 
-<br>
-<br>
+<div align="center" style="display: block">
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=classic&hide_border=false)
 
-![Infos](https://github-readme-streak-stats.herokuapp.com/?user=KeremDUZENLI&theme=classic&hide_border=false)
-
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <h1 align="left">Support My Work</h1>
-  <p align="justify">Hey! If you find my projects inspiring and would like to support my education costs and doctoral research, please consider donating. Every little bit counts, like buying me a cup of coffee or tea!</p>
+<div align="center" style="display: block">
+  <h1>Support My Work</h1>
+  <p align="justify">If you enjoy my projects and would like to help support my education and doctoral research, please consider buying me a cup of coffee (or tea) via Revolut!</p>
   <a href="https://revolut.me/krmdznl" target="_blank">
-    <img src="https://img.shields.io/badge/Support%20My%20Projects-Donate%20via%20Revolut-orange?style=for-the-badge" alt="Support my education via Revolut"/>
+    <img src="https://img.shields.io/badge/Support%20My%20Projects-Donate%20via%20Revolut-orange?style=for-the-badge" alt="Support my education via Revolut" />
   </a>
 </div>
