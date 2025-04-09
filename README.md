@@ -49,8 +49,7 @@
   </a>
 </div>
 
-<div align="center" style="display: inline_block" > 
-<br>
+<div align="center" style="display: inline_block" > <br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -65,6 +64,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg"/>
 
+<br>
 <br>
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=classic&hide_border=false)
