@@ -1,5 +1,0 @@
-# Ignore all Jupyter Notebooks from language stats
-*.ipynb linguist-vendored
-
-# Optionally ignore checkpoints too
-.ipynb_checkpoints/* linguist-generated
